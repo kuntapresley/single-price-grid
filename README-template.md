@@ -4,7 +4,7 @@ This is a solution to the [Single price grid component challenge on Frontend Men
 
 ## Table of contents
 
-- [Overview](#overview)
+- 
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
   - [Links](#links)
@@ -12,9 +12,9 @@ This is a solution to the [Single price grid component challenge on Frontend Men
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
+  
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
+
 
 **Note: Delete this note and update the table of contents based on what sections you keep.**
 
@@ -38,7 +38,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://github.com/kuntapresley/single-price-grid.git)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://kuntapresley.github.io/single-price-grid/)
 
 ## My process
 
@@ -111,8 +111,8 @@ responsiveness for viewing the optimal layout gave me some issues
 ## Author
 
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/ifeanyipresley)
-- Twitter - [@yourusername](https://www.twitter.com/@legend-of-kunta)
+- Frontend Mentor - [@yourusername](ifeanyipresley)
+- Twitter - [@yourusername](@legend-of-kunta)
 
 **Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
 
